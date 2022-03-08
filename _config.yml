@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "D.XB"
+title                    : "WD"
 title_separator          : "-"
-name                     : &name "Xingbo"
+name                     : &name "Wangdi"
 description              : &description "personal description"
-url                      : https://xingbod.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://wangdiedu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dong Xingbo"
+  name             : "WD"
   avatar           : "profile.png"
-  bio              : "Post-Doc"
-  location         : "Seoul"
+  bio              : "研究生"
+  location         : "广州"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=Jc4KdcIAAAAJ&hl=en&oi=ao"
-  email            : "xingbod@gmail.com"
+#   googlescholar    : "https://scholar.google.com/citations?user=Jc4KdcIAAAAJ&hl=en&oi=ao"
+#   email            : "xingbod@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
